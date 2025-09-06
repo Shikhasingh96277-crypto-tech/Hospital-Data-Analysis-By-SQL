@@ -1,2 +1,2 @@
 # Hospital-Data-Analysis-By-SQL
-SMART Questions A PDF document with well-defined SMART (Specific, Measurable, Achievable, Relevant, Time-bound) questions designed for data analysis projects, focusing on clarity, scope, and measurable outcomes.
+This project uses a variety of SQL queries to clean, transform, and analyze hospital data. The queries include filtering records, applying aggregate functions (SUM, COUNT, AVG), grouping by departments or patients, joining multiple tables, and using subqueries to extract deeper insights. These queries help identify patient trends, admission rates, resource usage, and overall hospital performance.
